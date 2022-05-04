@@ -1645,7 +1645,7 @@
     content: "\ea7c";
 }
 .icon-twitter2:before {
-    content: url("images/Icons/twitter.png");
+    content: "\ea7d";
 }
 .icon-vimeo-with-circle:before {
     content: "\ea7e";
@@ -3132,34 +3132,3 @@
 .icon-IcoMoon:before {
     content: "\eca7";
 }
-
-.icon-facebook{
-    content: url("images/Icons/facebook.png");
-}
-
-.icon-twitter{
-    content: url("Icons/twitter.png");
-}
-
-.icon-instagram{
-    content: url("Icons/instagram.png");
-}
-
-.icon-youtube{
-    content: url("Icons/youtube.png");
-}
-
-.icon-location{
-    content: url("Icons/location_address.png");
-}
-
-.icon-phone{
-    content: url("Icons/phone.png");
-}
-
-.icon-mail{
-    content: url("Icons/mail.png");
-}
-
-.icon-briefcase{
-    content: url("Icons/briefcase.png");
