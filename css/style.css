@@ -757,8 +757,8 @@ h1, h2, h3, h4, h5, h6, figure {
   padding-right: 10px;
 }
 .fh5co-social-icons li a i {
-  height: 10px;
-  width: 10px;
+  height: 50px;
+  width: 50px;
 }
 
 #fh5co-started {
@@ -1263,11 +1263,17 @@ h1, h2, h3, h4, h5, h6, figure {
   list-style: none;
   color: rgba(255, 255, 255, 0.5);
 }
-#fh5co-footer .fh5co-footer-links li a {
+
+#fh5co-footer .fh5co-footer-links li i {
+  height: 30px;
+  width: 30px;
+}
+
+#fh5co-footer .fh5co-footer-links li i a {
   color: rgba(255, 255, 255, 0.5);
   text-decoration: none;
 }
-#fh5co-footer .fh5co-footer-links li a:hover {
+#fh5co-footer .fh5co-footer-links li i a:hover {
   text-decoration: underline;
   color: #ea272d;
 }
@@ -1787,6 +1793,38 @@ textarea {
 .img-dimensions-todays-menu{
   height: 240px;
   width: 240px;
+}
+
+.icon-facebook{
+  content: url("Icons/facebook.png");
+}
+
+.icon-twitter{
+  content: url("Icons/twitter.png");
+}
+
+.icon-instagram{
+  content: url("Icons/instagram.png");
+}
+
+.icon-youtube{
+  content: url("Icons/youtube.png");
+}
+
+.icon-location{
+  content: url("Icons/location.png");
+}
+
+.icon-phone{
+  content: url("Icons/phone.png");
+}
+
+.icon-mail{
+  content: url("Icons/email.png");
+}
+
+.icon-company{
+  content: url("Icons/company.png");
 }
 
 /*# sourceMappingURL=style.css.map */
