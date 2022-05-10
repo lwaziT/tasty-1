@@ -15,8 +15,8 @@ body {
   font-weight: 400;
   font-size: 18px;
   line-height: 1.7;
-  color: rgba(255, 255, 255, 0.3);
-  background: #000 url(../images/broken_noise.png) repeat;
+  color: black repeat;
+  background: #000 url(../images/NewPhotos/opollo-photography-9v2pDpZK7Mc-unsplash.jpg) repeat;
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   body {
